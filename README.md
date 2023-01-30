@@ -43,3 +43,14 @@
 
 ## Current consumed from the 9VDC power input
 ### 9VDC    :   200mA
+
+---
+
+## Status of the project:
+
+Task | Status |
+---------|--------------|
+Schematic capture | &#9745;
+PCB layout | &#9745;
+Test build | &#9745;
+Safe to order boards| &#9745;
