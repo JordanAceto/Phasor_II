@@ -1,0 +1,80 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet
+1,Unpolarized capacitor,C,C202,22p,C_0603_1608Metric,1, ,~
+2,Unpolarized capacitor,C,C506,100p,C_0603_1608Metric,1, ,~
+3,Unpolarized capacitor,C,C403,470p,C_0603_1608Metric,1, ,~
+4,Unpolarized capacitor,C,C205 C401 C501 C502 C504 C505,1n,C_0603_1608Metric,6, ,~
+5,Unpolarized capacitor,C,C204,3n3,C_0603_1608Metric,1, ,~
+6,Unpolarized capacitor,C,C301 C302 C303 C304 C305 C306,6n8,C_0805_2012Metric,6, ,~
+7,Unpolarized capacitor,C,C201,47n,C_Rect_L7.0mm_W2.5mm_P5.00mm,1, ,~
+8,Unpolarized capacitor,C,C503,47n,C_0805_2012Metric,1, ,~
+9,Unpolarized capacitor,C,C2 C203 C701 C702 C811 C812 C813 C814 C815 C816 C817 C818 C819 C820 C821 C822 C823 C824 C825 C826 C827 C828 C829 C830 C831 C832,100n,C_0603_1608Metric,26, ,~
+10,Unpolarized capacitor,C,C402,220n,C_Rect_L7.0mm_W2.5mm_P5.00mm,1, ,~
+11,Unpolarized capacitor,C,C307,470n,C_Rect_L7.0mm_W3.5mm_P5.00mm,1, ,~
+12,Unpolarized capacitor,C,C3 C4,1u,C_0805_2012Metric,2, ,~
+13,Unpolarized capacitor,C,C1 C5 C6,4u7,C_0805_2012Metric,3, ,~
+14,Polarized capacitor,C_Polarized,C7 C8 C9 C10,10u,CP_Radial_D6.3mm_P2.50mm,4, ,~
+15,"75V 0.15A Fast Switching Diode, SOD-123",1N4148W,D301 D302,1N4148W,D_SOD-123,2, ,https://www.vishay.com/docs/85748/1n4148w.pdf
+16,Schottky diode,D_Schottky,D1 D2 D3 D4 D101,B5819W,D_SOD-123,5, ,~
+17,Schottky diode,D_Schottky,D501 D502,BAT48ZFILM,D_SOD-123,2, ,~
+18,Light emitting diode,LED,D601,LED,LED_D5.0mm,1, ,~
+19,"Ferrite bead, small symbol",FerriteBead_Small,FB1 FB2 FB3,100R @ 100MHz,L_0805_2012Metric,3, ,~
+20,DC Barrel Jack,Jack-DC,J4,9VDC_IN,BarrelJack_CUI_PJ-063AH_Horizontal,1, ,~
+21,"Audio Jack, 3 Poles (Stereo / TRS), Switched Poles (Normalling)",AudioJack3_Switch,J1 J2 J3,AUDIO_IN,Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal,3, ,~
+22,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,JP1,exp_pedal_dest_jumper,PinHeader_2x03_P2.54mm_Vertical,1, ,~
+23,Inductor symbol for simulation only,INDUCTOR,L1,"10uH, 1.2A",L_Taiyo-Yuden_NR-50xx,1, ,~
+24,"0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23",MMBT3904,Q301,MMBT3904,SOT-23,1, ,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+25,"-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23",MMBT3906,Q601 Q602,MMBT3906,SOT-23,2, ,https://www.onsemi.com/pub/Collateral/2N3906-D.PDF
+26,Resistor,R,R1 R2,1,R_0603_1608Metric,2, ,~
+27,Resistor,R,R325,220,R_0603_1608Metric,1, ,~
+28,Resistor,R,R504 R511 R605,270,R_0603_1608Metric,3, ,~
+29,Resistor,R,R103,1k,R_0603_1608Metric,1, ,~
+30,Resistor,R,R206,1k5,R_0603_1608Metric,1, ,~
+31,Resistor,R,R805,1k8,R_0603_1608Metric,1, ,~
+32,Resistor,R,R203 R321,3k9,R_0603_1608Metric,2, ,~
+33,Resistor,R,R201 R205 R207 R208 R209 R301 R303 R304 R306 R307 R309 R310 R312 R313 R315 R316 R318 R401 R402 R404,4k7,R_0603_1608Metric,20, ,~
+34,Resistor,R,R102 R323 R513 R701 R702,10k,R_0603_1608Metric,5, ,~
+35,Resistor,R,R403 R508,12k,R_0603_1608Metric,2, ,~
+36,Resistor,R,R4,13k3,R_0603_1608Metric,1, ,~
+37,Resistor,R,R516,18k,R_0603_1608Metric,1, ,~
+38,Resistor,R,R703,20k,R_0603_1608Metric,1, ,~
+39,Resistor,R,R503 R603,22k,R_0603_1608Metric,2, ,~
+40,Resistor,R,R509,30k,R_0603_1608Metric,1, ,~
+41,Resistor,R,R601,33k,R_0603_1608Metric,1, ,~
+42,Resistor,R,R519,39k,R_0603_1608Metric,1, ,~
+43,Resistor,R,R505 R517,56k,R_0603_1608Metric,2, ,~
+44,Resistor,R,R319 R322,68k,R_0603_1608Metric,2, ,~
+45,Resistor,R,R501 R507 R510 R515 R518 R520 R602 R604 R705 R806 R807,100k,R_0603_1608Metric,11, ,~
+46,Resistor,R,R506,110k,R_0603_1608Metric,1, ,~
+47,Resistor,R,R3,114k,R_0603_1608Metric,1, ,~
+48,Resistor,R,R512 R514,120k,R_0603_1608Metric,2, ,~
+49,Resistor,R,R704 R706,200k,R_0603_1608Metric,2, ,~
+50,Resistor,R,R302 R305 R308 R311 R314 R317 R324 R502,220k,R_0603_1608Metric,8, ,~
+51,Resistor,R,R202 R204,390k,R_0603_1608Metric,2, ,~
+52,Trim-potentiometer,R_Potentiometer_Trim,RV302,1k,Potentiometer_Bourns_3296W_Vertical,1, ,~
+53,Potentiometer,R_Potentiometer,RV201,10k,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1, ,~
+54,Potentiometer,R_Potentiometer,RV501 RV502,100k,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,2, ,~
+55,Trim-potentiometer,R_Potentiometer_Trim,RV503 RV701,100k,Potentiometer_Bourns_3296W_Vertical,2, ,~
+56,"Momentary Switch, dual pole double throw",SW_Push_DPDT,SW101,FOOTSWITCH,PinHeader_1x06_P2.54mm_Vertical,1, ,~
+57,,LDR_ring,U301,LDR_ring,LDR_ring,1, ,
+58,"5.000V Precision Micropower Shunt Voltage Reference, SOT-23",LM4040DBZ-5,U802,LM4040DBZ-5,SOT-23,1, ,http://www.ti.com/lit/ds/symlink/lm4040-n.pdf
+59,,LT3467A,U801,LT3467A,TSOT-23-6,1, ,
+60,"Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8",RC4558,U1 U2 U3 U4 U5,RC4558,SOIC-8_3.9x4.9mm_P1.27mm,5, ,http://www.ti.com/lit/ds/symlink/rc4558.pdf
+61,,SSI2162,U10,SSI2162,SSOP-10_3.9x4.9mm_P1.00mm,1, ,https://www.soundsemiconductor.com/downloads/ssi2162datasheet.pdf
+62,"Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8",TL072,U6 U7 U8 U9,TL072,SOIC-8_3.9x4.9mm_P1.27mm,4, ,http://www.ti.com/lit/ds/symlink/tl071.pdf
+
+
+
+
+
+Project info:
+Schematic:,phasor_II
+Variant:,default
+Revision:,0
+Date:,2022-10-15
+KiCad Version:,6.0.5+dfsg-1~bpo11+1
+Statistics:
+Component Groups:,62
+Component Count:,174 (143 SMD/ 20 THT)
+Fitted Components:,174 (143 SMD/ 20 THT)
+Number of PCBs:,1
+Total Components:,174
