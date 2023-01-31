@@ -15,6 +15,12 @@
 
 ---
 
+![front angle](./pics/angle_1.JPG)
+
+![guts](./pics/guts_straight.JPG)
+
+---
+
 ## Calibration
 ### There are three points of calibration via internal trimpots
 - `EXP PEDAL TRIM`
