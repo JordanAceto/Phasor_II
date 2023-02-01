@@ -1716,6 +1716,9 @@
     (path "/4a22f904-0bcb-4007-ac5b-1fa117b1854f"
       (reference "#SYM106") (unit 1) (value "SYM_Arrow_Normal") (footprint "")
     )
+    (path "/edcef274-d515-41fc-afb1-f65283fa9622/5b3eff5e-cd54-4496-b334-132a753c8e2a"
+      (reference "#SYM?") (unit 1) (value "SYM_Arrow45_Normal") (footprint "")
+    )
     (path "/23037999-0ca4-4a2f-9a91-b1f42073ec0e/3d010585-d878-4607-b0bd-0c636fa7c03e"
       (reference "C1") (unit 1) (value "4u7") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
