@@ -13,6 +13,9 @@
         - `LFO RATE`
         - `MANUAL SWEEP`
 
+
+## [SCHEMATIC](https://github.com/JordanAceto/Phasor_II/blob/main/main_pcb/docs/phasor_II-schematic.pdf)
+
 ---
 
 ![front angle](./pics/angle_1.JPG)
